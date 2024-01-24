@@ -21,7 +21,7 @@ public:
 
     
     virtual void displayInfo() const {
-        cout << "Product: " << name << ", Quantity: " << quantity << ", Price: $" << price << endl;
+        cout << "Product: " << name << ", Quantity: " << quantity << ", Price: " << price << endl;
     }
 
     
