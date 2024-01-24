@@ -96,7 +96,7 @@ public:
 int main() {
     // 
     Masala masala("Garam Masala", 2, 5.99, 3);
-    Oils oil("Olive Oil", 0, 9.99, "Extra Virgin");  
+    Oils oil("Soyabeen Oil", 0, 9.99, "Extra Virgin");  
     Grains rice("Basmati Rice", 5, 2.99, "Long Grain");
     ClothingProduct shirt("Casual Shirt", 3, 29.99, "Large");
 
